@@ -1,5 +1,11 @@
 /**********************************************************
 A program to calculate the gross pay, deductions and net pay of an employee.
+Write a program that computes the wages for an employee. The program is interactive, and asks
+the user to enter the employee name, followed by two values, one for the number of hours the
+employee worked, and one for the employee's hourly rate. The program then computes the
+employee's gross wages. Salary deductions consist of 2.4% of the gross salary for employment
+insurance, 1% as union dues, and 17% for taxes. All three percentages should be declared as
+constants
 **********************************************************/
 
 #include <iostream>
